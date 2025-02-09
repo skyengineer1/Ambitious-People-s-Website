@@ -15,9 +15,6 @@ Welcome to **Ambitious People's Company**! This project is a responsive website 
 - Bootstrap 5
 - FontAwesome Icons
 
-## 📸 Preview
-![Project Preview](images/preview.jpg)
-
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
